@@ -10,10 +10,10 @@
 <td valign="top">
   <h3>Aldir Pedro</h3>
   <p>
-    Software developer focused on <strong>Python</strong>, <strong>Java</strong> and
-    <strong>JavaScript/TypeScript</strong> — from backend logic to interactive interfaces.
-    Team lead on <strong>Aldijos</strong>, an asynchronous school activities platform built
-    with two classmates. Off-screen: real-life football player.
+    Software developer working across <strong>Python</strong>, <strong>Java</strong>,
+    <strong>JavaScript/TypeScript</strong>, <strong>C/C++</strong> and <strong>C#</strong>.
+    Multitasker by nature — comfortable moving between different parts of a project.
+    A businessman navigating the tech world.
   </p>
 </td>
 </tr>
