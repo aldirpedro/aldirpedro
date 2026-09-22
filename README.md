@@ -1,53 +1,71 @@
-<h2 align="left">About me</h2>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Aldir Pedro" />
+</p>
 
-###
+<table>
+<tr>
+<td width="170" valign="top">
+  <img src="assets/profile.jpg" width="150" alt="Aldir Pedro" />
+</td>
+<td valign="top">
+  <h3>Aldir Pedro</h3>
+  <p>
+    Software developer focused on <strong>Python</strong>, <strong>Java</strong> and
+    <strong>JavaScript/TypeScript</strong> — from backend logic to interactive interfaces.
+    Team lead on <strong>Aldijos</strong>, an asynchronous school activities platform built
+    with two classmates. Off-screen: real-life football player.
+  </p>
+</td>
+</tr>
+</table>
 
-<p align="left">-python developer<br>-java developer<br>-Real-life player of football</p>
+<br>
 
-###
+### Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-</div>
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,cs,html,css,git&theme=dark" alt="tech stack" />
 
-###
+<br>
 
-<h2 align="left">Social Media</h2>
+### Currently building
 
-###
+**[DTCenter_app](https://github.com/aldirpedro/DTCenter_app)** — a data center simulator app;
+architecture and planning docs in progress.
 
-<div align="left">
-  <a href="https://www.instagram.com/aldir_pedro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/feed/trending?bp=6gQJRkVleHBsb3Jl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
+<br>
 
-###
+### Featured projects
 
-<h2 align="left">Stats</h2>
+<table>
+<tr>
+<td width="33%" valign="top">
+  <strong><a href="https://github.com/aldirpedro/aldijos">aldijos</a></strong>
+  <p>Asynchronous activity platform for schools — student, teacher and admin panels,
+  authentication, grading and submissions.</p>
+  <code>JavaScript</code>
+</td>
+<td width="33%" valign="top">
+  <strong><a href="https://github.com/aldirpedro/blogue_noticia">blogue_noticia</a></strong>
+  <p>News blog built with Next.js and Tailwind CSS.</p>
+  <code>TypeScript</code>
+</td>
+<td width="33%" valign="top">
+  <strong><a href="https://github.com/aldirpedro/Baserow">Baserow</a></strong>
+  <p>REST API for library management.</p>
+  <code>Python</code>
+</td>
+</tr>
+</table>
 
-###
+<br>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldirpedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldirpedro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldirpedro&radius=16&theme=one-dark&area=true&order=5&bg_color=ukt&hide_border=false&hide_title=false" height="315" alt="activity-graph graph"  />
-</div>
+### GitHub
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=aldirpedro&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldirpedro&layout=compact&theme=dark&hide_border=true" height="150" alt="top languages" />
+
+<br>
+
+### Contact
+
+[Instagram](https://www.instagram.com/aldir_pedro)
